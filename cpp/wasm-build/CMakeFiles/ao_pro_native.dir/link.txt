@@ -1,2 +1,0 @@
-/home/lenovo/emsdk/upstream/emscripten/emar qc libao_pro_native.a CMakeFiles/ao_pro_native.dir/src/preprocessing.c.o CMakeFiles/ao_pro_native.dir/src/centroiding.c.o CMakeFiles/ao_pro_native.dir/src/wavefront_recon.c.o CMakeFiles/ao_pro_native.dir/src/turbulence.c.o CMakeFiles/ao_pro_native.dir/src/dm_control.c.o CMakeFiles/ao_pro_native.dir/src/hysteresis.c.o CMakeFiles/ao_pro_native.dir/src/control.c.o CMakeFiles/ao_pro_native.dir/src/spgd_backup.c.o CMakeFiles/ao_pro_native.dir/src/pipeline.c.o
-/home/lenovo/emsdk/upstream/emscripten/emranlib libao_pro_native.a

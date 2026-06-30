@@ -1,4 +1,0 @@
-/mnt/c/Users/lenovo/Downloads/Nh3 backend/app/cpp/wasm-build/CMakeFiles/ao_pro_native.dir
-/mnt/c/Users/lenovo/Downloads/Nh3 backend/app/cpp/wasm-build/CMakeFiles/ao_pro_wasm.dir
-/mnt/c/Users/lenovo/Downloads/Nh3 backend/app/cpp/wasm-build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/lenovo/Downloads/Nh3 backend/app/cpp/wasm-build/CMakeFiles/rebuild_cache.dir

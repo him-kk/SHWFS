@@ -72,15 +72,15 @@ The result is diffraction-limited imaging, targeting Strehl ratios above 0.8 in 
 
 | Dashboard | Processing Panel |
 |---|---|
-| ![Dashboard overview](./docs/Dashboard.png) | ![Processing panel](./docs/images/processing-panel.png) |
+| ![Dashboard overview](./docs/Dashboard.png) | ![Processing panel](./docs/processing.png) |
 
 | Results Viewer | Calibration Workflow |
 |---|---|
-| ![Results viewer](./docs/images/results-viewer.png) | ![Calibration steps](./docs/images/calibration-steps.png) |
+| ![Results viewer](./docs/result_viewer.png) | ![Calibration steps](./docs/calibration.png) |
 
 | Run History | Documentation |
 |---|---|
-| ![History table](./docs/images/history-table.png) | ![Documentation page](./docs/images/documentation-page.png) |
+| ![History table](./docs/history.png) | ![Documentation page](./docs/documentation.png) |
 
 ### Wavefront & DM Visualizations
 

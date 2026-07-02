@@ -84,17 +84,15 @@ The result is diffraction-limited imaging, targeting Strehl ratios above 0.8 in 
 
 ### Wavefront & DM Visualizations
 
-| Wavefront Phase Map | Zernike Decomposition |
+| Wavefront Phase Map | Residual map |
 |---|---|
-| ![Wavefront phase map](./docs/images/wavefront-phase-map.png) | ![Zernike decomposition](./docs/images/zernike-decomposition.png) |
+| ![Wavefront phase map](./docs/wavefront.png) | ![Residual Map](./docs/image.png) |
 
-| Turbulence Simulation | PSF: Before / After AO |
-|---|---|
-| ![Turbulence simulation](./docs/images/turbulence-simulation.png) | ![PSF comparison](./docs/images/psf-comparison.png) |
+
 
 | DM Actuator Map |
 |---|
-| ![DM actuator map](./docs/images/dm-actuator-map.png) |
+| ![DM actuator map](./docs/Dm-actutator.png) |
 
 ---
 
@@ -343,6 +341,3 @@ See the in-app **Documentation** page for the full reference list and TRL rating
 
 ---
 
-## License
-
-Add your license information here.

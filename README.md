@@ -58,17 +58,15 @@ The result is diffraction-limited imaging, targeting Strehl ratios above 0.8 in 
 
 ## Screenshots
 
-> Replace the placeholders below with your own images (see suggested paths).
-
 ### Landing Page
 
 | Hero | Manifesto |
 |---|---|
-| ![Hero section](./docs/hero-landing.png) | ![Manifesto section](./docs/images/landing-manifesto.png) |
+| ![Hero section](./docs/hero-landing.png) | ![Manifesto section](./docs/landing-manifesto.png) |
 
 | Processing Modules | Research Archive |
 |---|---|
-| ![Modules section](./docs/images/landing-modules.png) | ![Archive vault](./docs/images/landing-archive.png) |
+| ![Modules section](./docs/processing-module.png) | ![Archive vault](./docs/research-archives.png) |
 
 ### Dashboard Application
 

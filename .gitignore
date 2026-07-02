@@ -40,3 +40,14 @@ build/
 coverage/
 .nyc_output/
 "cpp/wasm-build/" 
+
+# CMake build folders
+cpp/wasm-build/
+build/
+cmake-build-*/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile

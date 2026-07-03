@@ -339,5 +339,5 @@ The algorithm registry implements techniques drawn from peer-reviewed adaptive o
 
 See the in-app **Documentation** page for the full reference list and TRL ratings.
 
----
+--
 
